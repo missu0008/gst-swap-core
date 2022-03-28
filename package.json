@@ -1,11 +1,11 @@
 {
-  "name": "@pancakeswap-libs/pancake-swap-core",
-  "description": "🎛 Core contracts for the pancake protocol",
+  "name": "@gstswap-libs/gst-swap-core",
+  "description": "🎛 Core contracts for the gst protocol",
   "version": "0.1.0",
-  "homepage": "https://pancakeswap.finance",
+  "homepage": "https://gstswap.finance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pancakeswap/pancake-swap-core.git"
+    "url": "https://github.com/gstswap/gst-swap-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
