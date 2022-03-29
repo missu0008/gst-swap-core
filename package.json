@@ -5,7 +5,7 @@
   "homepage": "https://gstswap.finance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gstswap/gst-swap-core.git"
+    "url": "https://github.com/missu0008/gst-swap-core.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
